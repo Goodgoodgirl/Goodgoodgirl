@@ -19,9 +19,9 @@ app.debug=True
 app.config['UPLOAD_FOLDER'] = 'program/uploadFile/'
 # 获取数据库连接
 conn = mysql.connector.connect(
-    host='47.120.8.151',
+    host='',
     user='root',
-    password='Aly123456',
+    password='', 
     port='3306',
     database='medical_treatment',
     charset='utf8'
