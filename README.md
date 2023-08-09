@@ -4,5 +4,5 @@
 
 系统操作流程：
 
-![image](https://github.com/cappuccino-wxl/medical-system-gpt3/assets/89365903/bac23d25-acf5-41ac-859c-393c96d96983)
+<img src="https://github.com/cappuccino-wxl/medical-system-gpt3/assets/89365903/bac23d25-acf5-41ac-859c-393c96d96983" width="70%">
 
