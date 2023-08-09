@@ -1,6 +1,6 @@
 # 连接api
 import openai
-openai.api_key = "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"
+openai.api_key = "" # 填写openai密钥
 
 
 def askChatGPT(question):
